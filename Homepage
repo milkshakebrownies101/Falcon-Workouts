@@ -5,11 +5,9 @@
    	<link type="text/css" rel="stylesheet" href="FalconWorkouts.css">                                 
     <title>Falcon Workouts</title>
     <style>
-	 body{
-  		background-image: url(background.jpg);
-    	}
    		 h1   {color: gold;}
-    </style>                  
+    </style>
+    <script type="text/javascript" language="javascript" src="falconworkouts/falconworkouts.nocache.js"></script>                 
   </head>
   
   <body> 
