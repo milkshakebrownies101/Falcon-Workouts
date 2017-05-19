@@ -1,0 +1,2 @@
+serviceClass: falconworkouts.client.GreetingService
+path: 815F9322B68C54FFDE7AFF43DF43CE96.gwt.rpc

@@ -1,0 +1,3 @@
+# Module falctechs
+# RPC service class, partial path of RPC policy file
+falconworkouts.client.GreetingService, 815F9322B68C54FFDE7AFF43DF43CE96.gwt.rpc
