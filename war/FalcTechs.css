@@ -328,6 +328,7 @@ body, html {
 a{
   color: black;
 }
+a:visited {color:gold;}
 
 .topnav a:hover {
   background-color: #ddd;
